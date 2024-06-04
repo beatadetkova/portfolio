@@ -13,6 +13,11 @@ type RootLayoutProps = {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en" className={fonts.exo_2.variable}>
+      <meta
+        name="description"
+        content="Portfolio of Beata Detkova, describing her experience and skills in Frontend Development"
+      ></meta>
+      <title>Bea's portfolio</title>
       <body
         id="body"
         style={{
