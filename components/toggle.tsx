@@ -16,8 +16,6 @@ export default function Toggle() {
     bsLightActive,
   } = theme.shadows.neumorphism;
 
-  console.log(theme.__cssMap);
-
   return (
     <header>
       <IconButton

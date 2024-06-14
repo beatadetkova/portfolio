@@ -28,7 +28,7 @@ export default function PreviousLife() {
         </Box>
       </Flex>
       <Text fontSize={['l', 'xl']} as="b">
-        from startups to corporates
+        SIEMENS, Novartis, ADP etc.
       </Text>
       <HStack>
         <Text fontSize={['l', 'xl']} as="b">
